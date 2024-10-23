@@ -6,4 +6,7 @@ Bem-vindo ao meu repositório de 100 dias de código em Python! Neste desafio, e
 
 No primeiro dia, explorei o método print() em Python, que é fundamental para exibir dados no console. Aprendi sobre sua sintaxe, uso e diversas formas de personalizar a saída. Este foi apenas o começo de uma jornada emocionante em direção à maestria da linguagem Python.
 
+## Dia 2: Introdução ao Método input() e variáveis
+
+No segundo dia, explorei o método input() em Python, para recepção de dados e a criação de variáveis para poder armazenar-los e utilizei o método print() aprendido no dia anterior para apresentar-los no console.
 

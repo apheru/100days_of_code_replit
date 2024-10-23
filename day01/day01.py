@@ -1,0 +1,7 @@
+print("Apheru")
+print("24 de Outubro, 2024")
+print("""Eu estou começando o desafio de 100 dias de Python no Replit!""")
+print("""Eu vou me certificar de passar algum tempo todos os dias codificando, por minimo 10 minutos por dia.""")
+print("""Eu estarei usando o Replit, um IDE online e o VSCODE está criando e transcrevendo os meus códigos durante todo o desafio e não darei desculpas para falhar durante o trajeto.""")
+print("Estou me sentindo empolgado! 😜")
+print("Você pode acompanhar meu progresso em replit.com/@Apheru, assim como também no meu instagram @apherudev e no meu github, em https://github.com/apheru")

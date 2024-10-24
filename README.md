@@ -10,3 +10,6 @@ No primeiro dia, explorei o método print() em Python, que é fundamental para e
 
 No segundo dia, explorei o método input() em Python, para recepção de dados e a criação de variáveis para poder armazenar-los e utilizei o método print() aprendido no dia anterior para apresentar-los no console.
 
+## Dia 3: Concatenação
+
+No terceiro dia, explorei como juntar diferentes tipos de valores na hora de serem exibidos no console, através do método de concatenação, que ao utilizar uma vírgula, conseguimos juntar vários valores para que possam ser exibidos juntos.

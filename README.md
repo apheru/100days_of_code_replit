@@ -13,3 +13,7 @@ No segundo dia, explorei o método input() em Python, para recepção de dados e
 ## Dia 3: Concatenação
 
 No terceiro dia, explorei como juntar diferentes tipos de valores na hora de serem exibidos no console, através do método de concatenação, que ao utilizar uma vírgula, conseguimos juntar vários valores para que possam ser exibidos juntos.
+
+## Dia 4: Cores no console
+
+No quarto dia, exploramos como adicionar cores às palavras exibidas no terminal, criando uma história interativa e dinâmica. Esse exercício utiliza as habilidades adquiridas nos dias anteriores, aprimorando a apresentação visual dos textos no console e tornando a experiência mais envolvente.

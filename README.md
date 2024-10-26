@@ -17,3 +17,7 @@ No terceiro dia, explorei como juntar diferentes tipos de valores na hora de ser
 ## Dia 4: Cores no console
 
 No quarto dia, exploramos como adicionar cores às palavras exibidas no terminal, criando uma história interativa e dinâmica. Esse exercício utiliza as habilidades adquiridas nos dias anteriores, aprimorando a apresentação visual dos textos no console e tornando a experiência mais envolvente.
+
+## Dia 5: Declarações If e Else
+
+No quinto dia, aprendemos a tornar o programa mais "inteligente" ao adicionar declarações de if e else. Com isso, o programa pode tomar ações diferentes de acordo com a resposta, alterando seu comportamento conforme as condições definidas.

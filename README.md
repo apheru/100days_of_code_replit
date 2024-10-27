@@ -21,3 +21,7 @@ No quarto dia, exploramos como adicionar cores às palavras exibidas no terminal
 ## Dia 5: Declarações If e Else
 
 No quinto dia, aprendemos a tornar o programa mais "inteligente" ao adicionar declarações de if e else. Com isso, o programa pode tomar ações diferentes de acordo com a resposta, alterando seu comportamento conforme as condições definidas.
+
+## Dia 6: Condição Elif
+
+Hoje, exploramos o poder da condição elif, permitindo que o programa verifique múltiplas condições e tome decisões ainda mais precisas. Com o elif, cada possibilidade ganha seu espaço, tornando o código mais flexível e inteligente.

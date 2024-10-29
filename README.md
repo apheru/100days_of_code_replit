@@ -25,3 +25,7 @@ No quinto dia, aprendemos a tornar o programa mais "inteligente" ao adicionar de
 ## Dia 6: Condição Elif
 
 Hoje, exploramos o poder da condição elif, permitindo que o programa verifique múltiplas condições e tome decisões ainda mais precisas. Com o elif, cada possibilidade ganha seu espaço, tornando o código mais flexível e inteligente.
+
+## Dia 7: Condicionais Aninhadas
+
+Hoje exploramos condicionais aninhadas, aprendendo a usar um if dentro de outro if. Esse recurso permite criar decisões mais complexas, aprofundando a lógica do programa e aumentando seu controle sobre cada situação.

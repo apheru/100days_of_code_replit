@@ -29,3 +29,7 @@ Hoje, exploramos o poder da condição elif, permitindo que o programa verifique
 ## Dia 7: Condicionais Aninhadas
 
 Hoje exploramos condicionais aninhadas, aprendendo a usar um if dentro de outro if. Esse recurso permite criar decisões mais complexas, aprofundando a lógica do programa e aumentando seu controle sobre cada situação.
+
+## Dia 8: Gerador de Mensagens Positivas
+
+Hoje enfrentamos um desafio: criar um gerador de mensagens positivas usando condicionais if, elif e else. A máquina recebe dados do usuário através de inputs e, com base na escala de humor de 1 a 10, responde com mensagens motivadoras personalizadas.

@@ -33,3 +33,7 @@ Hoje exploramos condicionais aninhadas, aprendendo a usar um if dentro de outro 
 ## Dia 8: Gerador de Mensagens Positivas
 
 Hoje enfrentamos um desafio: criar um gerador de mensagens positivas usando condicionais if, elif e else. A máquina recebe dados do usuário através de inputs e, com base na escala de humor de 1 a 10, responde com mensagens motivadoras personalizadas.
+
+## Dia 9: Conversão de Tipos (Casting)
+
+Hoje aprendemos sobre casting: ao receber dados, o input trata tudo como string, mas podemos convertê-los para int ou float usando comandos antes do input. Essa habilidade permite lidar melhor com diferentes tipos de dados, tornando o programa mais versátil.

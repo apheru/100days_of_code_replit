@@ -45,3 +45,7 @@ Hoje aprendemos os operadores básicos para realizar cálculos em Python: ```+``
 ## Dia 11: Calculadora de Segundos
 
 No dia de hoje, enfrentamos o desafio de criar um projeto que calcula quantos segundos existem em um ano, considerando se ele é bissexto ou não. Essa atividade nos permitiu testar nosso conhecimento lógico e a aplicação dos operadores aprendidos na aula anterior, solidificando nossa compreensão sobre como manipular dados e implementar lógica condicional.
+
+## Dia 12: Debug my Code!
+
+Hoje recebemos um código repleto de erros para que pudéssemos praticar a depuração (debugging) utilizando o conhecimento adquirido até agora. Essa atividade nos desafiou a identificar e corrigir os problemas, aprimorando nossas habilidades de resolução de problemas e nossa compreensão do funcionamento do código.

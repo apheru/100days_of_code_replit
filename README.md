@@ -41,3 +41,7 @@ Hoje aprendemos sobre casting: ao receber dados, o ```input()``` trata tudo como
 ## Dia 10: Um Pouco de Matemática
 
 Hoje aprendemos os operadores básicos para realizar cálculos em Python: ```+```, ```-```, ```*```, ```/```, ```**``` (exponenciação), ```%``` (módulo) e ```//``` (divisão inteira). Com essas operações, o código ganha poder para resolver problemas matemáticos de forma precisa.
+
+## Dia 11: Calculadora de Segundos
+
+No dia de hoje, enfrentamos o desafio de criar um projeto que calcula quantos segundos existem em um ano, considerando se ele é bissexto ou não. Essa atividade nos permitiu testar nosso conhecimento lógico e a aplicação dos operadores aprendidos na aula anterior, solidificando nossa compreensão sobre como manipular dados e implementar lógica condicional.

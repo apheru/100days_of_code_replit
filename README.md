@@ -49,3 +49,7 @@ No dia de hoje, enfrentamos o desafio de criar um projeto que calcula quantos se
 ## Dia 12: Debug my Code!
 
 Hoje recebemos um código repleto de erros para que pudéssemos praticar a depuração (debugging) utilizando o conhecimento adquirido até agora. Essa atividade nos desafiou a identificar e corrigir os problemas, aprimorando nossas habilidades de resolução de problemas e nossa compreensão do funcionamento do código.
+
+## Dia 13: Que Nota Eu Tirei?
+
+Hoje, criamos uma calculadora de média com base nos conhecimentos de condicionais e inputs e outputs. O programa solicita a nota máxima do exame e a nota obtida pelo aluno, calcula a porcentagem alcançada e, em seguida, atribui uma média em letras (A+, A, B, etc.) de acordo com o desempenho. Esse projeto nos ajuda a entender como transformar pontuações em avaliações qualitativas, praticando lógica e operações matemáticas.
